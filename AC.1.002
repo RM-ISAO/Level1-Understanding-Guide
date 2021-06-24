@@ -16,7 +16,7 @@
  
  Make sure to limit users/employees to only the information systems, roles, or applications they are permitted to use and that are needed for their jobs.
  
- EXAMPLE:
+ EXAMPLE: 
  
  You are in charge of payroll for the company and need access to certain company financial information and systems. You work with IT to set up the system so that when users
  log onto the company's network, only those employees you allow can use the payroll applications and access payroll data. Because of this good access control, your coworkers
