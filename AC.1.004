@@ -1,0 +1,25 @@
+Does the organization assign critical duties to different individuals?
+
+DEFINITION:
+
+Control information posted or processed on publicly accessible information systems.
+
+DISCUSSION:
+
+In accordance with laws, Executive Orders, directives, policies, regulations, or standards, the public is not authorized access to nonpublic information 
+(e.g., information protected under the Privacy Act, CUI, and proprietary information). This requirement addresses systems that are controlled by the organization and accessible 
+to the public, typically without identification or authentication. Individuals authorized to post CUI onto publicly accessible systems are designated. The content of information 
+is reviewed prior to posting onto publicly accessible systems to ensure that nonpublic information is not included.
+(DISCUSSION SOURCE: DRAFT NIST SP 800-171 R2)
+
+CLARIFICATION:
+
+Do not allow sensitive information, including Federal Contract Information (FCI), which may include CUI, to become public. It is important to know which users/employees 
+are allowed to publish information on publicly accessible systems, like your company website. Limit and control information that is posted on your company's website(s) that 
+can be accessed by the public.
+
+EXAMPLE:
+
+You are head of marketing for your company and want to become better known by your customers. So, you decide to start issuing press releases about your company projects. Your
+company gets FCI from doing work for the Federal government. FCI is information that is not shared publicly. Because you recognize the need to control sensitive information, 
+including FCI, you carefully review all information before posting it on the company website or releasing to the public. You allow only certain employees to post to the website.
