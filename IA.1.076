@@ -1,0 +1,25 @@
+Does the organization require user acccounts to logon to system components?
+
+DEFINITION:
+
+Identify information system users, processes acting on behalf of users, or devices.
+
+DISCUSSION:
+
+Common device identifiers include media access control (MAC), Internet protocol (IP) addresses, or device-unique token identifiers. Management of individual identifiers is not
+applicable to shared system accounts. Typically, individual identifiers are the user names associated with the system accounts assigned to those individuals. Organizations may 
+require unique identification of individuals in group accounts or for detailed accountability of individual activity. In addition, this requirement addresses individual 
+identifiers that are not necessarily associated with system accounts. Organizational devices requiring identification may be defined by type, by device, or by a combination 
+of type/device. NIST SP 800-63-3 provides guidance on digital identities.
+(DISCUSSION SOURCE: DRAFT NIST SP 800-171 R2)
+
+CLARIFICATION:
+
+Authentication helps you to know who is using or viewing your system. Make sure to assign individual, unique identifiers, like user names, to all employees/users who access 
+company systems. Confirm the identities of users, processes, or devices before allowing them access to the company's information system-usually done through passwords.
+
+EXAMPLE:
+
+You lead a project with the Department of Defense (DoD) for your small company and want to make sure that all employees working on the project can log on to the company system
+to see important information about the project. You also want to prevent employees who are not working on the DoD project from being able to access the information. You set up 
+the system so that when an employee logs on, the system uniquely identifies each person, then determines the appropriate level of access.
