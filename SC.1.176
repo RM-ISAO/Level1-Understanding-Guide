@@ -26,4 +26,4 @@ EXAMPLE:
 
 The head of recruiting wants to launch a website to post job openings and allow the public to download an application form. After some discussion, your team realizes it needs to
 use a router and firewall to create a DMZ to do this. You host the server separately from the company's internal network, and make sure the network has the correct security 
-firewall rules. Your company gets a lot of great candidates for the open jobs, and the company's internal network is protected.
+firewall rules. Your company gets a lot of great candidates for the open jobs, and the company's internal network is protected. 
