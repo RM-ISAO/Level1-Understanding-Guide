@@ -22,4 +22,4 @@ EXAMPLE:
 
 You lead a project with the Department of Defense (DoD) for your small company and want to make sure that all employees working on the project can log on to the company system
 to see important information about the project. You also want to prevent employees who are not working on the DoD project from being able to access the information. You set up 
-the system so that when an employee logs on, the system uniquely identifies each person, then determines the appropriate level of access.
+the system so that when an employee logs on, the system uniquely identifies each person, then determines the appropriate level of access. 
