@@ -1,5 +1,5 @@
-Does the organization define approved use cases for controlled unclassified information? (e.g., "We get it from here, process it here, and send it there.")  Does the organization
-control the flow with technologies such as firewalls, account based permissions, etc.?
+Does the organization list approved connections between internal and external systems?  This includes user-initiated connections such as file sharing and limiting the use of 
+those connections.
 
 DEFINITION:
 
