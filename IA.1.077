@@ -1,0 +1,31 @@
+Does the organization require a password for user accounts?
+
+DEFINITION:
+
+Authenticate (or verify) the identities of those users, processes, or devices, as a prerequisite to allowing access to organizational information systems.
+
+DISCUSSION:
+
+Individual authenticators include the following: passwords, key cards, cryptographic devices, and one-time password devices. Initial authenticator content is the actual content
+of the authenticator, for example, the initial password. In contrast, the requirements about authenticator content include the minimum password length. Developers ship system 
+components with factory default authentication credentials to allow for initial installation and configuration. Default authentication credentials are often well known, easily 
+discoverable, and present a significant security risk. Systems support authenticator management by organization-defined settings and restrictions for various authenticator 
+characteristics including minimum password length, validation time window for time synchronous one-time tokens, and number of allowed rejections during the verification stage
+of biometric authentication. Authenticator management includes issuing and revoking, when no longer needed, authenticators for temporary access such as that required for remote 
+maintenance. Device authenticators include certificates and passwords. NIST SP 800-63-3 provides guidance on digital identities.
+(DISCUSSION SOURCE: DRAFT NIST SP 800-171 R2)
+
+CLARIFICATION:
+
+Before you let a person or a device have access to your system, you need to verify that the user or device is who or what it claims to be. This verification is called 
+authentication. The most common way to verify identity is using a username and a hard-to-guess password. Some devices ship with default usernames and passwords. For example, 
+some devices ship so that when you first logon to the device, the username is "admin" and the password is "admin". When you have devices with this type of default username and 
+password, you need to change the default password to a unique password you create. Default passwords are well known to the public, and easily found in a search. So, these default 
+passwords would be easy for an unauthorized person to guess and use to gain access to your system.
+
+EXAMPLE:
+
+You are in charge of purchasing for your company. You know that some devices, such as laptops, come with a default username and a default password. Last week, your coworker 
+in the Engineering Department received a laptop with the default username "admin" and default password "admin." You remind the coworker to be sure to delete the default account 
+details, or change the default password to a unique password. You also explain that default passwords are easily found in an internet search engine making it easy for an 
+unauthorized person to gain access to the system.
