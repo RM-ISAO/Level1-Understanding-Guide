@@ -1,3 +1,6 @@
+Does the organization list approved users, services, and devices?  Are logical controls in place to prevent the unauthorized use of the system?
+
+
 DEFINITION:
 
 Limit information system access to authorized users, processes acting on behalf of authorized users, or devices (including other information systems).
@@ -13,8 +16,11 @@ enforcement of access authorizations, other than those determined by account typ
 
 CLARIFICATION:
 
+
 Control who can use company computers and who can log on to the company network.  Limit the services and devices, like printers, that can be accessed by company computers. 
 Set up your system so that unauthorized users and devices cannot get on the company network.
+
+
 
 EXAMPLE #1:
 
