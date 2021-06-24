@@ -1,0 +1,23 @@
+ Does the organization have logical access permissions in place? (e.g., file/folder persmissions)?
+ 
+ DEFINITION:
+ 
+ Limit information system access to the types of transactions and functions that authorized users are permitted to execute.
+ 
+ DISCUSSION:
+ 
+ Organizations may choose to define access privileges or other attributes by account, by type of account, or a combination of both. System account types include individual, 
+ shared, group, system, anonymous, guest, emergency, developer, manufacturer, vendor, and temporary. Other attributes required for authorizing access include restrictions 
+ on time-of-day, day-of week, and point-of -origin. In defining other account attributes, organizations consider system-related requirements (e.g., system upgrades 
+ scheduled maintenance,) and mission or business requirements, (e.g., time zone differences, customer requirements, remote access to support travel requirements).
+ (DISCUSSION SOURCE: DRAFT NIST SP 800-171 R2)
+ 
+ CLARIFICATION:
+ 
+ Make sure to limit users/employees to only the information systems, roles, or applications they are permitted to use and that are needed for their jobs.
+ 
+ EXAMPLE:
+ 
+ You are in charge of payroll for the company and need access to certain company financial information and systems. You work with IT to set up the system so that when users
+ log onto the company's network, only those employees you allow can use the payroll applications and access payroll data. Because of this good access control, your coworkers
+ in the Shipping Department cannot access information about payroll or paychecks.
