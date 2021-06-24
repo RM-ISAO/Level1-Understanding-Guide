@@ -22,8 +22,8 @@ Set up your system so that unauthorized users and devices cannot get on the comp
 
 
 
-EXAMPLE #1:
+EXAMPLE #1: 
 
 You are in charge of IT for your company. You give a username and password to every employee who uses a company computer for their job. No one can use a company computer 
 without a username and a password. You give a username and password only to those employees you know have permission to be on the system. When an employee leaves the company, 
-you disable their username and password immediately.
+you disable their username and password immediately. 
