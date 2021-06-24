@@ -30,7 +30,7 @@ Be aware of applications that can be run by outside systems. Control and limit p
 information. You can also choose to limit how and when your network is connected to outside systems and/or decide that only certain employees can connect to outside systems 
 from network resources.
 
-EXAMPLE:
+EXAMPLE: 
 
 You help manage IT for your employer. You and your coworkers are working on a big proposal, and all of you will put in extra hours over the weekend to get it done. Part of 
 the proposal includes Federal Contract Information, or FCI. FCI is information that you or your company get from doing work for the Federal government. Because FCI is not 
