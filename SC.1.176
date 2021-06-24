@@ -1,0 +1,29 @@
+Does the organization isolate publicly accessible systems into a DMZ?
+
+DEFINITION:
+
+Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.
+
+DISCUSSION:
+
+Subnetworks that are physically or logically separated from internal networks are referred to as demilitarized zones (DMZs). DMZs are typically implemented with boundary control
+devices and techniques that include routers, gateways, firewalls, virtualization, or cloudbased technologies. NIST SP 800-41 provides guidance on firewalls and firewall policy.
+SP 800-125B provides guidance on security for virtualization technologies.
+(DISCUSSION SOURCE NIST SP 800-171 R2)
+
+CLARIFICATION:
+
+Separate the publicly accessible systems from the internal systems that need to be protected. Do not place the internal systems on the same network as the publicly accessible 
+systems. A network or part of a network that is separated (sometimes physically) from an internal network is called a demilitarized zone (DMZ). A DMZ is a host or part of a
+network put in a "neutral zone" between an organization's internal network (the protected side) and a larger network, like the internet. To separate a subnetwork physically, your
+company may put in boundary control devices (i.e., routers, gateways, firewalls). This can also be done on a cloud network that can be separated from the rest of the network.
+A DMZ can add an extra layer of security to your company's LAN, because an external network node can reach only what is permitted to be accessed in the DMZ. Physical separation 
+might involve a separate network infrastructure, dedicated network equipment with separate LAN segments and a firewall between the internal network and the DMZ segment and a 
+firewall between the DMZ segment and the internet. A logical separation might involve VLAN separation for the DMZ supporting a separate subnet with routing and access controls 
+between subnets.
+
+EXAMPLE:
+
+The head of recruiting wants to launch a website to post job openings and allow the public to download an application form. After some discussion, your team realizes it needs to
+use a router and firewall to create a DMZ to do this. You host the server separately from the company's internal network, and make sure the network has the correct security 
+firewall rules. Your company gets a lot of great candidates for the open jobs, and the company's internal network is protected.
