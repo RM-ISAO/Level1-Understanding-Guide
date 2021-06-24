@@ -1,0 +1,29 @@
+Does the organization perform periodic (e.g. daily/weekly) antivirus scans and have "real-time protection" enabled?
+
+DEFINITION:
+
+Perform periodic scans of information systems and real-time scans of files from external sources as files are downloaded, opened, or executed.
+
+DISCUSSION:
+
+Periodic scans of organizational systems and real-time scans of files from external sources can detect malicious code. Malicious code can be encoded in various formats
+(e.g., UUENCODE, Unicode), contained within compressed or hidden files, or hidden in files using techniques such as steganography. Malicious code can be inserted into systems in 
+a variety of ways including web accesses, electronic mail, electronic mail attachments, and portable storage devices. Malicious code insertions occur through the exploitation of 
+system vulnerabilities. Malicious code protection mechanisms include anti-virus signature definitions and reputation-based technologies. Many technologies and methods exist to
+limit or eliminate the effects of malicious code. Pervasive configuration management and comprehensive software integrity controls may be effective in preventing execution of
+unauthorized code. In addition to commercial off-the-shelf software, malicious code may also be present in custom-built software. This could include logic bombs, back doors, 
+and other types of cyberattacks that could affect organizational missions/business functions. Traditional malicious code protection mechanisms cannot always detect such code. 
+In these situations, organizations rely instead on other safeguards including secure coding practices, configuration management and control, trusted procurement processes, and 
+monitoring practices to help ensure that software does not perform functions other than the functions intended.
+(DISCUSSION SOURCE: DRAFT NIST SP 800-171 R2)
+
+CLARIFICATION:
+
+Companies should use anti-malware software to scan and identify viruses in their computer systems, and have a plan for how often scans are conducted. Real-time scans will look 
+at the system whenever new files are downloaded, opened, and saved. Periodic scans check previously saved files against updated malware information.
+
+EXAMPLE:
+
+While cleaning up your office, you find your old thumb drive. You are not sure if you should use it. Then you remember something: Your company just purchased anti-malware 
+software that auto-updates with the latest antivirus code and definitions of all known malware. With this in mind, you decide to plug in the thumb drive. The new anti-malware 
+software scans the thumb drive, finds a virus, then deletes the file.
